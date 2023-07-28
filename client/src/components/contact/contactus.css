@@ -1,0 +1,36 @@
+.contact-us-main{
+  background-color: rgb(55, 55, 150);
+  height: 100vh;
+}
+.contact-us-main2{
+  border: 2px solid white;
+  height: 70vh;
+  border-radius: 40px;
+}
+.contact-us-input1::placeholder{
+  color: black;
+}
+.contact-us-input1{
+  outline: none;
+  border: none;
+}
+.contact-us-div{
+  border: 1px solid black;
+  border-radius:20px;
+}
+.button-login-contact{
+  background:none;
+  border-radius: 20px;
+  color:white;
+  background-color:red;
+  border: none;
+} 
+.instagram-contact{
+  font-size: 400%;
+}
+.twitter-contact{
+  font-size: 400%;
+}
+.facebook-contact{
+  font-size: 400%;
+}

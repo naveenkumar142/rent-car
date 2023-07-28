@@ -1,0 +1,31 @@
+.owner-cart-size{
+  font-size: 200%;
+}
+.owner-cart-size-update{
+  font-size: 150%;
+}
+.owner-logoimg{
+  border-radius: 50px;
+}
+.owner-logout{
+  font-size:150%;
+}
+.owner-bg-color{
+  background-image: url("https://images.pexels.com/photos/248747/pexels-photo-248747.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+
+}
+@media only screen and (max-width:460px) {
+  .owner-bg-color{
+    background-image: url("./minimage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.88;
+    background-position: center center;
+    height: 100vh;
+  
+  }
+}

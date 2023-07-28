@@ -1,0 +1,31 @@
+.main-loginimg{
+  background-image: url("./pexels-pixabay-261985.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+}
+
+.main-page-logo-user{
+  background: none;
+  border: none;
+  outline: none;
+}
+.main-page-logo-user-div{
+  border: 2px solid white;
+  border-radius: 20px;
+}
+::placeholder{
+  color: white;
+}
+.main-page-logo-pass{
+  background: none;
+  border: none;
+  outline: none;
+}
+.button-login{
+  background:none;
+  border-radius: 20px;
+  background-color:rgb(120, 194, 248);
+  color: black;
+  border: none;
+}

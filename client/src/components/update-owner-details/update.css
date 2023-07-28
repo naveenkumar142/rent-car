@@ -1,0 +1,19 @@
+.add-vehicle {
+  height: 100vh;
+}
+.add-vehicle-main1{
+  border:2px solid white ;
+  height: 90vh;
+  border-radius: 10px;
+}
+.add-vehicle-input::placeholder{
+  color: black;
+}
+.add-vehicle-input{
+  background: transparent;
+  border: none;
+  outline: none;
+}
+.add-vehicle-div{
+  border: 1px solid black;
+}
